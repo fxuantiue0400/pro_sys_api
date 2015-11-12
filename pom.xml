@@ -71,7 +71,6 @@
         <module>commom_module_models</module>
         <module>facade_module_webapp</module>
         <module>facade_api</module>
-        <module>facade_module_api</module>
     </modules>
 
 </project>

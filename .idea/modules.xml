@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/commom_module_models/commom_module_models.iml" filepath="$PROJECT_DIR$/commom_module_models/commom_module_models.iml" />
       <module fileurl="file://$PROJECT_DIR$/commom_module_service/commom_module_service.iml" filepath="$PROJECT_DIR$/commom_module_service/commom_module_service.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade_api/facade_api.iml" filepath="$PROJECT_DIR$/facade_api/facade_api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/facade_module_api/facade_module_api.iml" filepath="$PROJECT_DIR$/facade_module_api/facade_module_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/facade_module_webapp/facade_module_webapp.iml" filepath="$PROJECT_DIR$/facade_module_webapp/facade_module_webapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/pro_sys_api.iml" filepath="$PROJECT_DIR$/pro_sys_api.iml" />
       <module fileurl="file://$PROJECT_DIR$/server_module_device/server_module_device.iml" filepath="$PROJECT_DIR$/server_module_device/server_module_device.iml" />

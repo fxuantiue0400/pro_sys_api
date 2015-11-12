@@ -25,7 +25,6 @@
         <module name="commom_module_models" />
         <module name="commom_module_service" />
         <module name="facade_api" />
-        <module name="facade_module_api" />
         <module name="facade_module_webapp" />
         <module name="server_module_device" />
         <module name="server_module_user" />

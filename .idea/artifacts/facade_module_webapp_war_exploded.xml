@@ -7,6 +7,9 @@
           <element id="module-output" name="facade_module_webapp" />
         </element>
         <element id="directory" name="lib">
+          <element id="archive" name="commom_module_service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="commom_module_service" />
+          </element>
           <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.5.3" />
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.15.0-GA" />
           <element id="library" level="project" name="Maven: org.jboss.netty:netty:3.2.5.Final" />

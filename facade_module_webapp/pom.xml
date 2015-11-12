@@ -17,6 +17,11 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>xuan.pro</groupId>
+            <artifactId>commom_module_service</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>facade_module_webapp</finalName>

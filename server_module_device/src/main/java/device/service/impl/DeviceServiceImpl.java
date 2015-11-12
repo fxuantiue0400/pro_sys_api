@@ -1,7 +1,7 @@
 package device.service.impl;
 
 import org.springframework.stereotype.Service;
-import pro.controller.device.DeviceService;
+import pro.device.DeviceService;
 
 /**
  * Created by weixuan on 2015/10/25.
